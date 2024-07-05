@@ -1,45 +1,45 @@
 @font-face {
     font-family: 'TMCandor';
-    src: url('/file=fonts/TMCandor-Light.otf') format('opentype');
+    src: url('/file=style/fonts/TMCandor-Light.otf') format('opentype');
     font-weight: 300;
 }
 
 @font-face {
     font-family: 'TMCandor';
-    src: url('/file=fonts/TMCandor-LightItalic.otf') format('opentype');
+    src: url('/file=style/fonts/TMCandor-LightItalic.otf') format('opentype');
     font-weight: 300;
     font-style: italic;
 }
 
 @font-face {
     font-family: 'TMCandor';
-    src: url('/file=fonts/TMCandor-Regular.otf') format('opentype');
+    src: url('/file=style/fonts/TMCandor-Regular.otf') format('opentype');
     font-weight: normal;
 }
 
 @font-face {
     font-family: 'TMCandor';
-    src: url('/file=fonts/TMCandor-RegularItalic.otf') format('opentype');
+    src: url('/file=style/fonts/TMCandor-RegularItalic.otf') format('opentype');
     font-weight: normal;
     font-style: italic;
 }
 
 @font-face {
     font-family: 'TMCandor';
-    src: url('/file=fonts/TMCandor-Bold.otf') format('opentype');
+    src: url('/file=style/fonts/TMCandor-Bold.otf') format('opentype');
     font-weight: bold;
 }
 
 @font-face {
     font-family: 'TMCandor';
-    src: url('/file=fonts/TMCandor-BoldItalic.otf') format('opentype');
+    src: url('/file=style/fonts/TMCandor-BoldItalic.otf') format('opentype');
     font-weight: bold;
     font-style: italic;
 }
 
 @font-face {
     font-family: 'TMCandorHeadline';
-    src: url('/file=fonts/TMCandor-Headline.otf') format('opentype');
+    src: url('/file=style/fonts/TMCandor-Headline.otf') format('opentype');
     font-weight: 700;
 }
 
