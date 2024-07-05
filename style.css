@@ -86,11 +86,12 @@ body, .gradio-container * {
 button {
     font-family: var(--font) !important;
     font-weight: normal !important;
+	font-size: 1.1875rem !important;
     background-color: var(--color-button-base) !important;
     color: var(--color-blue) !important;
     border: none;
     border-radius: 0px;
-    padding: 8px 0px 4px 0px;
+    padding: 10px 0px 8px 0px;
     background-image: none;
 }
 
@@ -98,10 +99,6 @@ button:hover {
     background-color: var(--color-button-hover) !important;
     color: var(--color-white) !important;
     background-image: none;
-}
-
-textarea {
-    resize: none !important;
 }
 
 /* Hide the Gradio footer */
