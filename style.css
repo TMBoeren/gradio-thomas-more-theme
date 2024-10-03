@@ -83,7 +83,7 @@ body, .gradio-container * {
     color: var(--color-cold-black) !important;
 }
 
-button:not(.tab-nav) {
+button:not(div.tab-nav > button) {
     font-family: var(--font) !important;
     font-weight: normal !important;
 	font-size: 1.1875rem !important;
@@ -95,7 +95,7 @@ button:not(.tab-nav) {
     background-image: none;
 }
 
-button:not(.tab-nav):hover {
+button:not(div.tab-nav > button):hover {
     background-color: var(--color-button-hover) !important;
     color: var(--color-white) !important;
     background-image: none;
